@@ -1,11 +1,11 @@
 {
-  "name": "nextjs-chakra-dashboard",
+  "name": "agrifinance",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "NODE_OPTIONS=--openssl-legacy-provider react-native start"
+    "start": "next start"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.2",
