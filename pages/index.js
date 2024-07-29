@@ -1,4 +1,6 @@
 import React, { useState } from 'react'
+//import P2PTransaction from '../contracts/P2PTransaction.sol';
+
 import {
     Flex,
     Heading,
